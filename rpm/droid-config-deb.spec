@@ -2,8 +2,8 @@
 # ../droid-configs-device/droid-configs.inc
 %define device deb
 %define vendor asus
-%define vendor_pretty Assu
-%define device_pretty Nexus 7 (2013)
+%define vendor_pretty Asus
+%define device_pretty Nexus 7 (2013 LTE)
 %define dcd_path ./
 # Adjust this for your device
 %define pixel_ratio 2.0
