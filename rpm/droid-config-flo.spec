@@ -8,5 +8,5 @@
 # Adjust this for your device
 %define pixel_ratio 2.0
 # We assume most devices will
-%define have_modem 1
+%define have_modem 0
 %include droid-configs-device/droid-configs.inc
