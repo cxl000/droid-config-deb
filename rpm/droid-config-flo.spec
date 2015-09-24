@@ -1,9 +1,9 @@
 # These and other macros are documented in
 # ../droid-configs-device/droid-configs.inc
-%define device deb
+%define device flo
 %define vendor asus
 %define vendor_pretty Asus
-%define device_pretty Nexus 7 (2013 LTE)
+%define device_pretty Nexus 7 (2013)
 %define dcd_path ./
 # Adjust this for your device
 %define pixel_ratio 2.0
